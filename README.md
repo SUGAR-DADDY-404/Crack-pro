@@ -26,9 +26,9 @@
 
 - `git clone https://github.com/SUGAR-DADDY-404/Crack-pro.git`
 
-- `cd Crack-pro`
+- `cd crack'
 
-- `python Crack-pro.py`
+- `python crack.py`
 
 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
 
