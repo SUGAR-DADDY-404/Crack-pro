@@ -24,7 +24,7 @@
 
 - `rm -rf Crack-pro`
 
-- `git clone `
+- `git clone https://github.com/SUGAR-DADDY-404/Crack-pro.git`
 
 - `cd Crack-pro`
 
@@ -40,13 +40,13 @@
 
 <p align="left">
 
-<a href="https://www.facebook.com/theorygg1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="theorygg1" height="30" width="40" /></a>
+
 
 </p>
 
 <p align="left">
 
-<a href="https://youtube.com/@H4XTERMUX" target="blank"><img align="center" src="https://github.com/H4X-GG/APP/blob/main/9a59817eac70327b226ee3fe81f200c5.jpg" alt="theorygg1" height="30" width="40" /></a>
+
 
 </p>
 
