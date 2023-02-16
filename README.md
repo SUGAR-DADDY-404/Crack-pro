@@ -26,7 +26,7 @@
 
 - `git clone https://github.com/SUGAR-DADDY-404/Crack-pro.git`
 
-- `cd crack'
+- `cd crack`
 
 - `python crack.py`
 
